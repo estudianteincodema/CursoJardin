@@ -7,15 +7,11 @@
   </head>
   <body>
   <h2>Página con horarios grado jardin</h2>
-  <h3>2° Periodo</h3>
-  
-  </br>
+  <h3>2° Periodo</h3>  
   
   <ul class="actions">
     <li><a href="#one" class="button scrolly">Horario</a></li>
   </ul>  
-
-  </br>
   
   <section id="one" class="main style1">
     <div class="container">
@@ -60,19 +56,15 @@
     </div>
   </section>
 
-  <a src="mailto:prueba@gmail.com">Enviar correo</a> 
-
-
-  **[Página web Colegio Incodema](http://incodema.edu.co)**  
-
+  <a src="mailto:prueba@gmail.com">Enviar correo</a>  
+  
+  <a src="http://incodema.edu.co">Página web Colegio Incodema</a>  
+  
   <div class="iframe-container">
       <iframe src="http://incodema.edu.co"  width="100%" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 
-  #### Comentarios
-
-
-  #### CopyRight    
+  <h3>CopyRight</h3>  
   © 2020 GitHub, Inc. 
   Terms
   Privacy
