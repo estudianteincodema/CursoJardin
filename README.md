@@ -9,8 +9,7 @@
     <title>Estudiante Incodema Jardin</title>
   </head>
   <body>
-  <h2>Página con horarios grado jardin</h2>
-  <h3>2° Periodo</h3>  
+  <h2>2° Periodo</h2>
   
   <ul class="actions">
     <li><a href="#one" class="button scrolly">Horario</a></li>
