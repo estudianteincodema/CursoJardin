@@ -32,16 +32,16 @@
               </tr>
               <tr>
                 <td>7:30 – 8:00</td>
-                <td><a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">Informática</td>
-                <td><a href="https://inglesincodema.blogspot.com/" >Inglés</td>
+                <td><a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">Informática</a></td>
+                <td><a href="https://inglesincodema.blogspot.com/" >Inglés</a></td>
                 <td>-</td>
                 <td>-</td>
-                <td><a href="https://artesincodema.blogspot.com/" >Danzas</td>
+                <td><a href="https://artesincodema.blogspot.com/" >Danzas</a></td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
-                <td><a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</td>
-                <td><a href="https://artesincodema.blogspot.com/" >artes</td>
+                <td><a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a></td>
+                <td><a href="https://artesincodema.blogspot.com/" >artes</a></td>
                 <td>Ética y Valores</td>
                 <td>Religión</td>
                 <td></td>
@@ -54,8 +54,8 @@
                 <td>Ciencias Naturales</td>
                 <td>Sociales</td>
                 <td>Matemáticas</td>
-                <td><a href="https://artesincodema.blogspot.com/" >Música</td>
-                <td><a href="https://edufisicaincomdea.blogspot.com/" >Educación Física</td>
+                <td><a href="https://artesincodema.blogspot.com/" >Música</a></td>
+                <td><a href="https://edufisicaincomdea.blogspot.com/" >Educación Física</a></td>
               </tr>
               <tr>
                 <td>9:35 – 10:00</td><td colspan="5"></td>
