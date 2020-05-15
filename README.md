@@ -1,9 +1,11 @@
+<!DOCTYPE HTML>
 <html>
-  <title>Estudiante Incodema Jardin</title>
   <head>
+    <meta charset="utf-8" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="respons.css">
+    <title>Estudiante Incodema Jardin</title>
   </head>
   <body>
   <h2>Página con horarios grado jardin</h2>
@@ -59,8 +61,8 @@
   
   <div><a src="mailto:prueba@gmail.com">Enviar correo</a></div> 
   
-  <section id="one" class="main style1">
-    <div><a src="http://incodema.edu.co">Página web Colegio Incodema</a></div>
+  <section id="two" class="main style1">
+    <div class="container"><a src="http://incodema.edu.co">Página web Colegio Incodema</a></div>
   </section>
   
   <div class="iframe-container">
