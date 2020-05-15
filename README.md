@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE HTML>
 <html>
   <head>
@@ -29,28 +31,42 @@
                 <th></th><th>LUNES</th><th>MARTES</th><th>MIERCOLES</th><th>JUEVES</th><th>VIERNES</th>
               </tr>
               <tr>
-                 <td>7:30 – 8:00</td><td>Informática</td><td>Inglés</td><td></td><td></td><td>Danzas</td>
+                <td>7:30 – 8:00</td>
+                <td>Informática</td>
+                <td>Inglés</td>
+                <td></td>
+                <td></td>
+                <td>Danzas</td>
               </tr>
               <tr>
-                <td>8:00 – 8:40</td><td>Desarrollo  
-                Humano</td><td>artes</td><td>Ética y Valores</td><td>Religión</td><td></td>
+                <td>8:00 – 8:40</td>
+                <td>Desarrollo Humano</td>
+                <td>artes</td>
+                <td>Ética y Valores</td>
+                <td>Religión</td>
+                <td></td>
               </tr>
               <tr>
                 <td>8:45 – 9:00</td><td colspan="5"></td>
               </tr>
               <tr>
-                <td>9:00 – 9:35</td><td>Ciencias  
-                Naturales</td><td>Sociales</td><td>Matemáticas</td><td>Música</td><td>Educación  
-                Física</td>
+                <td>9:00 – 9:35</td>
+                <td>Ciencias Naturales</td>
+                <td>Sociales</td>
+                <td>Matemáticas</td>
+                <td>Música</td>
+                <td>Educación Física</td>
               </tr>
               <tr>
                 <td>9:35 – 10:00</td><td colspan="5"></td>
               </tr>
               <tr>
-                <td>10:00 – 10:30</td><td>Lengua  
-                Castellana</td><td>Matemáticas</td><td>Matemáticas</td><td>Lengua  
-                Castellana</td><td>Lengua  
-                Castellana</td>
+                <td>10:00 – 10:30</td>
+                <td>Lengua Castellana</td>
+                <td>Matemáticas</td>
+                <td>Matemáticas</td>
+                <td>Lengua Castellana</td>
+                <td>Lengua Castellana</td>
               </tr>
             </table>
           <div>
@@ -62,7 +78,7 @@
   <!-- <div><a href="mailto:prueba@gmail.com">Enviar correo</a></div> -->
   
   <section id="two" class="main style1">
-    <div class="container"><a href="http://incodema.edu.co"><p>Página web Colegio Incodema</p></a></div>
+    <div class="container"><a href="http://incodema.edu.co"><p>Página web Incodema</p></a></div>
     <div>
         <iframe src="http://incodema.edu.co"  width="80%" height="359" frameborder="1" allowfullscreen></iframe>
     </div>
