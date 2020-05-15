@@ -1,19 +1,20 @@
-```markdown
-# Página con horarios grado jardin  
-## 2° Periodo
 
-<ul class="actions">
-  <li><a href="#one" class="button scrolly">Semana1</a></li>
-  <li><a href="#two" class="button scrolly">Semana2</a></li>
-</ul>
+# Página con horarios grado jardin  
+```
+2° Periodo
 ```
 
-
-**[Página web Colegio Incodema](http://incodema.edu.co)**
+<ul class="actions">
+  <li><a href="#one" class="button scrolly">Horario</a></li>
+  <li><a href="#two" class="button scrolly">Semana2</a></li>
+</ul>
   
   
-<iframe src="http://incodema.edu.co" width="100%" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+**[Página web Colegio Incodema](http://incodema.edu.co)**  
   
+<span class="image fit">
+  <iframe src="http://incodema.edu.co" width="100%" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</span>
   
 ![Imagen1][ninos]
 
@@ -24,14 +25,10 @@
         <header class="major">
           <h2>Semana 18 al 22 de Mayo</h2>
         </header>
-        <p></p>
-        <span class="image fit">
-          <iframe width="100%" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        </span>
         <div>
           <table>
             <tr>
-              <th></th><th>  # LUNES</th><th>MARTES</th><th>MIERCOLES</th><th>JUEVES</th><th>VIERNES</th>
+              <th></th><th>LUNES</th><th>MARTES</th><th>MIERCOLES</th><th>JUEVES</th><th>VIERNES</th>
             </tr>
             <tr>
                <td>7:30 – 8:00</td><td>INFORMÁTICA</td><td>INGLÉS</td><td></td><td></td><td>DANZAS</td>
@@ -69,11 +66,8 @@
 #### Comentarios
 
 
-CopyRight  
-&copy; Estudiante Incodema  
-Mayo 2020
-
-© 2020 GitHub, Inc.
+#### CopyRight    
+© 2020 GitHub, Inc. 
 Terms
 Privacy
 Security
