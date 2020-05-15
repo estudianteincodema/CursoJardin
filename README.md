@@ -39,7 +39,7 @@
               <tr>
                 <td>8:00 – 8:40</td>
                 <td><a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a></td>
-                <td><a href="https://artesincodema.blogspot.com/" >artes</a></td>
+                <td><a href="https://artesincodema.blogspot.com/" >Artes</a></td>
                 <td>Ética y Valores</td>
                 <td>Religión</td>
                 <td></td>
