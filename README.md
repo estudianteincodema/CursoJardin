@@ -38,7 +38,7 @@
                   <div align="center">
                     <a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a>
                   </div>
-                  <div align="left">ID zoom: 724 8214 8808</div>
+                  <div align="left" color='#004350' size='2'>ID zoom: 724 8214 8808</div>
                   <div align="left">Contraseña: 7wyZe8</div>
                 </td>
                 <td>
