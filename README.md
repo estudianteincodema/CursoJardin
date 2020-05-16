@@ -51,15 +51,35 @@
                 <td>
                   <div align="center">
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
-				  <div/>
+				  </div>
 				</td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
-                <td><a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a></td>
-                <td><a href="https://artesincodema.blogspot.com/" >Artes</a></td>
-                <td>Ética y Valores</td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Religión</a></td>
+                <td>
+				  <div align="center">
+					<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a>
+				  </div>
+                  <div align="center">
+                    <a href="">Ir a clase</a>
+                  </div>
+                  <div align="left">ID zoom: 228 564 1414</div>
+                  <div align="left">Contraseña: 8XHGRx</div>
+				</td>
+                <td>
+				  <div align="center">
+					<a href="https://artesincodema.blogspot.com/" >Artes</a>
+				  </div>
+				</td>
+                <td><a href="https://gladystabares7.wixsite.com/eticayvalores">Ética y Valores</a></td>
+                <td>
+				  <div align="center">
+					<a href="">Religión</a>
+				  </div>
+				  <div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
                 <td></td>
               </tr>
               <tr>
