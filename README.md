@@ -43,7 +43,7 @@
                 <td><a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a></td>
                 <td><a href="https://artesincodema.blogspot.com/" >Artes</a></td>
                 <td>Ética y Valores</td>
-                <td>Religión</td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Religión</a></td>
                 <td></td>
               </tr>
               <tr>
@@ -51,9 +51,9 @@
               </tr>
               <tr>
                 <td>9:00 – 9:35</td>
-                <td>Ciencias Naturales</td>
-                <td>Sociales</td>
-                <td>Matemáticas</td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ciencias Naturales</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Sociales</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
                 <td><a href="https://artesincodema.blogspot.com/" >Música</a></td>
                 <td><a href="https://edufisicaincomdea.blogspot.com/" >Educación Física</a></td>
               </tr>
@@ -62,14 +62,14 @@
               </tr>
               <tr>
                 <td>10:00 – 10:30</td>
-                <td>Lengua Castellana</td>
-                <td>Matemáticas</td>
-                <td>Matemáticas</td>
-                <td>Lengua Castellana</td>
-                <td>Lengua Castellana</td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
+                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
               </tr>
             </table>
-          <div>
+          </div>
         </div>
       </div>
     </div>
