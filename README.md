@@ -45,7 +45,7 @@
                   <div align="center">
                     <a href="https://inglesincodema.blogspot.com/">INGLÉS</a>
                   </div>
-									<div align="center">
+										<div align="center">
                     <!-- <a href="">Ir a clase</a> -->
                   </div>
                 </td>
@@ -81,11 +81,9 @@
                   </div>
 								</td>
                 <td>
+									<div align="center">ÉTICA Y VALORES</div>
 									<div align="center">
-										<a href="https://gladystabares7.wixsite.com/eticayvalores">ÉTICA Y VALORES</a>
-									</div>
-									<div align="center">
-                    <!-- <a href="">Ir a clase</a> -->
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
                   </div>
 								</td>
                 <td>
