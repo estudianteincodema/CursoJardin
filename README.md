@@ -51,32 +51,36 @@
                 <td>
                   <div align="center">
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
-				  </div>
-				</td>
+		 							</div>
+								</td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
                 <td>
-				  <div align="center">
-					<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >Desarrollo Humano</a>
-				  </div>
+									<div align="center">
+										<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
+									</div>
                   <div align="center">
                     <a href="">Ir a clase</a>
                   </div>
                   <div align="left">ID zoom: 228 564 1414</div>
                   <div align="left">Contraseña: 8XHGRx</div>
-				</td>
+								</td>
                 <td>
-				  <div align="center">
-					<a href="https://artesincodema.blogspot.com/" >Artes</a>
-				  </div>
-				</td>
-                <td><a href="https://gladystabares7.wixsite.com/eticayvalores">Ética y Valores</a></td>
+									<div align="center">
+										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
+									</div>
+								</td>
                 <td>
-				  <div align="center">
-					<a href="">Religión</a>
-				  </div>
-				  <div align="center">
+									<div align="center">
+										<a href="https://gladystabares7.wixsite.com/eticayvalores">ÉTICA Y VALORES</a>
+									</div>
+								</td>
+                <td>
+									<div align="center">
+										<a href="">RELIGIÓN</a>
+									</div>
+									<div align="center">
                     <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
                   </div>
                 </td>
@@ -87,22 +91,92 @@
               </tr>
               <tr>
                 <td>9:00 – 9:35</td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ciencias Naturales</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Sociales</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
-                <td><a href="https://artesincodema.blogspot.com/" >Música</a></td>
-                <td><a href="https://edufisicaincomdea.blogspot.com/" >Educación Física</a></td>
+                <td>
+									<div align="center">
+										<a href="">CIENCIAS NATURALES</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="">SOCIALES</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="">MATEMÁTICAS</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+								<td>
+									<div align="center">
+										<a href="https://artesincodema.blogspot.com/">MÚSICA</a>
+									</div>
+									<div align="center">
+                    <!-- <a href="">Ir a clase</a> -->
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="https://edufisicaincomdea.blogspot.com/">EDUCACIÓN FÍSICA</a>
+									</div>
+									<div align="center">
+                    <!-- <a href="">Ir a clase</a> -->
+                  </div>
+                </td>
               </tr>
               <tr>
                 <td>9:35 – 10:00</td><td colspan="5"></td>
               </tr>
               <tr>
                 <td>10:00 – 10:30</td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Matemáticas</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
-                <td><a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Lengua Castellana</a></td>
+                <td>
+									<div align="center">
+										<a href="">LENGUA CASTELLANA</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+								<td>
+									<div align="center">
+										<a href="">MATEMÁTICAS</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="">MATEMÁTICAS</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="">LENGUA CASTELLANA</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
+                <td>
+									<div align="center">
+										<a href="">LENGUA CASTELLANA</a>
+									</div>
+									<div align="center">
+                    <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
+                  </div>
+                </td>
               </tr>
             </table>
           </div>
