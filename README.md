@@ -39,7 +39,7 @@
                     <a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a>
                   </div>
                   <div align="left"><font color='#004350' size='2'>ID zoom: 724 8214 8808</font></div>
-                  <div align="left" size="1" style="font-size: 16px; color: #004350">Contraseña: 7wyZe8</div>
+                  <div align="left"><font color='#004350' size='2'>Contraseña: 7wyZe8</font></div>
                 </td>
                 <td>
                   <div align="center">
@@ -54,7 +54,7 @@
                 <td>
                   <div align="center">
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
-		 							</div>
+									</div>
 									<div align="center">
                     <!-- <a href="">Ir a clase</a> -->
                   </div>
@@ -69,8 +69,8 @@
                   <div align="center">
                     <a href="">Ir a clase</a>
                   </div>
-                  <div align="left">ID zoom: 228 564 1414</div>
-                  <div align="left">Contraseña: 8XHGRx</div>
+                  <div align="left"><font color='#004350' size='2'>ID zoom: 228 564 1414</font></div>
+                  <div align="left"><font color='#004350' size='2'>Contraseña: 8XHGRx</font></div>
 								</td>
                 <td>
 									<div align="center">
