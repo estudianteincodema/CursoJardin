@@ -42,13 +42,13 @@
                   <div align="left">Contraseña: 8XHGRx</div>
 								</td>
                 <td>
-                  <div align="center">
-                    <a href="https://inglesincodema.blogspot.com/">INGLÉS</a>
-                  </div>
+									<div align="center">
+										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
+									</div>
 									<div align="center">
                     <!-- <a href="">Ir a clase</a> -->
                   </div>
-                </td>
+								</td>
                 <td>-</td>
                 <td>-</td>
                 <td>
@@ -73,13 +73,13 @@
                   <div align="left">Contraseña: 7wyZe8</div>
                 </td>
                 <td>
-									<div align="center">
-										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
-									</div>
+                  <div align="center">
+                    <a href="https://inglesincodema.blogspot.com/">INGLÉS</a>
+                  </div>
 									<div align="center">
                     <!-- <a href="">Ir a clase</a> -->
                   </div>
-								</td>
+                </td>
                 <td>
 									<div align="center">
 										<a href="https://gladystabares7.wixsite.com/eticayvalores">ÉTICA Y VALORES</a>
