@@ -22,7 +22,7 @@
     <div class="container">
       <div class="row 150%">
         <div class="6u 12u$(medium)">
-          <header class="major">
+          <header>
             <h2>Horario Mayo</h2>
           </header>
           <div>
@@ -33,12 +33,20 @@
               <tr>
                 <td>7:30 – 8:00</td>
                 <td>
-                  <div><a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">Informática</a></div>
-                  <div><a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a></div>
-                  <div>ID zoom: 724 8214 8808</div>
-                  <div>Contraseña: 7wyZe8</div>
+                  <div align="center">
+                    <a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">INFORMÁTICA</a>
+                  </div>
+                  <div align="center">
+                    <a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a>
+                  </div>
+                  <div align="left">ID zoom: 724 8214 8808</div>
+                  <div align="left">Contraseña: 7wyZe8</div>
                 </td>
-                <td><a href="https://inglesincodema.blogspot.com/" >Inglés</a></td>
+                <td>
+                  <div align="center">
+                    <a href="https://inglesincodema.blogspot.com/">INGLÉS</a>
+                  </div>
+                </td>
                 <td>-</td>
                 <td>-</td>
                 <td><a href="https://artesincodema.blogspot.com/" >Danzas</a></td>
