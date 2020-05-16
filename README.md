@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8" >
     <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, width=device-width">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
@@ -49,7 +49,10 @@
                 </td>
                 <td>-</td>
                 <td>-</td>
-                <td><a href="https://artesincodema.blogspot.com/" >Danzas</a></td>
+                <td>
+                  <div align="center">
+                    <a href="https://artesincodema.blogspot.com/" >DANZAS</a><div/></td>
+                  </div>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
