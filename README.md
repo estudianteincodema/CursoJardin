@@ -32,37 +32,6 @@
               <tr>
                 <td>7:30 – 8:00</td>
                 <td>
-									<div align="center">
-										<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
-									</div>
-                  <div align="center">
-                    <a href="">Ir a clase</a>
-                  </div>
-                  <div align="left">ID zoom: 228 564 1414</div>
-                  <div align="left">Contraseña: 8XHGRx</div>
-								</td>
-                <td>
-									<div align="center">
-										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
-									</div>
-									<div align="center">
-                    <!-- <a href="">Ir a clase</a> -->
-                  </div>
-								</td>
-                <td>-</td>
-                <td>-</td>
-                <td>
-                  <div align="center">
-                    <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
-		 							</div>
-									<div align="center">
-                    <!-- <a href="">Ir a clase</a> -->
-                  </div>
-								</td>
-              </tr>
-              <tr>
-                <td>8:00 – 8:40</td>
-                <td>
                   <div align="center">
                     <a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">INFORMÁTICA</a>
                   </div>
@@ -80,6 +49,37 @@
                     <!-- <a href="">Ir a clase</a> -->
                   </div>
                 </td>
+                <td>-</td>
+                <td>-</td>
+                <td>
+                  <div align="center">
+                    <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
+		 							</div>
+									<div align="center">
+                    <!-- <a href="">Ir a clase</a> -->
+                  </div>
+								</td>
+              </tr>
+              <tr>
+                <td>8:00 – 8:40</td>
+                <td>
+									<div align="center">
+										<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
+									</div>
+                  <div align="center">
+                    <a href="">Ir a clase</a>
+                  </div>
+                  <div align="left">ID zoom: 228 564 1414</div>
+                  <div align="left">Contraseña: 8XHGRx</div>
+								</td>
+                <td>
+									<div align="center">
+										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
+									</div>
+									<div align="center">
+                    <!-- <a href="">Ir a clase</a> -->
+                  </div>
+								</td>
                 <td>
 									<div align="center">
 										<a href="https://gladystabares7.wixsite.com/eticayvalores">ÉTICA Y VALORES</a>
