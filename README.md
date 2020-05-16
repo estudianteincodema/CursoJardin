@@ -33,9 +33,9 @@
               <tr>
                 <td>7:30 – 8:00</td>
                 <td>
-                  <div>Informática<div>
-                  <div><a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Link clase</a><div>
-                  <div><a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">Ir al blog</a><div>
+                  <div>Informática</div>
+                  <div><a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Link clase</a></div>
+                  <div><a href="https://sites.google.com/view/incodema-informatica/selecciona-tu-curso">Ir al blog</a></div>
                 </td>
                 <td><a href="https://inglesincodema.blogspot.com/" >Inglés</a></td>
                 <td>-</td>
