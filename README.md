@@ -1,13 +1,12 @@
 
-
 <html>
   <head>
-    <meta charset="utf-8" >
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, width=device-width">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js">
-    <link rel="stylesheet" href="respons.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, width=device-width" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js" />
+    <link rel="stylesheet" href="respons.css" />
     <title>Estudiante Incodema Jardin</title>
   </head>
   <body>
@@ -51,8 +50,9 @@
                 <td>-</td>
                 <td>
                   <div align="center">
-                    <a href="https://artesincodema.blogspot.com/" >DANZAS</a><div/></td>
-                  </div>
+                    <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
+				  <div/>
+				</td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
