@@ -38,7 +38,7 @@
                   <div align="center">
                     <a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a>
                   </div>
-                  <div align="left"><font color='#004350' size='2'>ID zoom: 724 8214 8808</font></div>
+                  <div align="left"><font color='#004350' size='2'>ID: 724 8214 8808</font></div>
                   <div align="left"><font color='#004350' size='2'>Contraseña: 7wyZe8</font></div>
                 </td>
                 <td>
@@ -55,27 +55,27 @@
                   <div align="center">
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
 									</div>
-                  <div align="left"><font color='#004350' size='2'>ID zoom: 527 249 1287</font></div>
+                  <div align="left"><font color='#004350' size='2'>ID: 527 249 1287</font></div>
                   <div align="left"><font color='#004350' size='2'>Contraseña: 6TAtqb</font></div>
 								</td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
                 <td>
-<div align="center">
+									<div align="center">
 										<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
 									</div>
                   <!--<div align="center">
                     <a href="">Ir a clase</a>
                   </div> -->
-                  <div align="left"><font color='#004350' size='2'>ID zoom: 228 564 1414</font></div>
+                  <div align="left"><font color='#004350' size='2'>ID: 228 564 1414</font></div>
                   <div align="left"><font color='#004350' size='2'>Contraseña: 8XHGRx</font></div>
 								</td>
                 <td>
 									<div align="center">
 										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
 									</div>
-                  <div align="left"><font color='#004350' size='2'>ID zoom: 957 095 3893</font></div>
+                  <div align="left"><font color='#004350' size='2'>ID: 957 095 3893</font></div>
                   <div align="left"><font color='#004350' size='2'>Contraseña: 9UMk2U</font></div>
 								</td>
                 <td>
@@ -119,7 +119,7 @@
 									<div align="center">
 										<a href="https://artesincodema.blogspot.com/">MÚSICA</a>
 									</div>
-                  <div align="left"><font color='#004350' size='2'>ID zoom: 689 376 8611</font></div>
+                  <div align="left"><font color='#004350' size='2'>ID: 689 376 8611</font></div>
                   <div align="left"><font color='#004350' size='2'>Contraseña: SJA168</font></div>
                 </td>
                 <td>
