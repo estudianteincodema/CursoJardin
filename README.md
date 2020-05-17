@@ -39,7 +39,7 @@
                     <a href="https://us04web.zoom.us/j/72482148808?pwd=YjdZV2hYcjRGZXgrOHc4cVEzMHpmdz09">Ir a clase</a>
                   </div>
                   <div align="left"><font color='#004350' size='2'>ID: 724 8214 8808</font></div>
-                  <div align="left"><font color='#004350' size='2'>Contraseña: 7wyZe8</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: 7wyZe8</font></div>
                 </td>
                 <td>
                   <div align="center">
@@ -56,7 +56,7 @@
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
 									</div>
                   <div align="left"><font color='#004350' size='2'>ID: 527 249 1287</font></div>
-                  <div align="left"><font color='#004350' size='2'>Contraseña: 6TAtqb</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: 6TAtqb</font></div>
 								</td>
               </tr>
               <tr>
@@ -69,14 +69,14 @@
                     <a href="">Ir a clase</a>
                   </div> -->
                   <div align="left"><font color='#004350' size='2'>ID: 228 564 1414</font></div>
-                  <div align="left"><font color='#004350' size='2'>Contraseña: 8XHGRx</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: 8XHGRx</font></div>
 								</td>
                 <td>
 									<div align="center">
 										<a href="https://artesincodema.blogspot.com/" >ARTES</a>
 									</div>
                   <div align="left"><font color='#004350' size='2'>ID: 957 095 3893</font></div>
-                  <div align="left"><font color='#004350' size='2'>Contraseña: 9UMk2U</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: 9UMk2U</font></div>
 								</td>
                 <td>
 									<div align="center">ÉTICA Y VALORES</div>
@@ -120,7 +120,7 @@
 										<a href="https://artesincodema.blogspot.com/">MÚSICA</a>
 									</div>
                   <div align="left"><font color='#004350' size='2'>ID: 689 376 8611</font></div>
-                  <div align="left"><font color='#004350' size='2'>Contraseña: SJA168</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: SJA168</font></div>
                 </td>
                 <td>
 									<div align="center">
