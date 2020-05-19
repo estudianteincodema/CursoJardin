@@ -45,26 +45,28 @@
                   <div align="center">
                     <a href="https://inglesincodema.blogspot.com/">INGLÉS</a>
                   </div>
-										<div align="center">
-                    <!-- <a href="">Ir a clase</a> -->
+                  <div align="center">
+                    <a href="https://us04web.zoom.us/j/76021165334?pwd=MSs5bEhOOGk1WmJSc3h4YXZvV2J4QT09">Ir a clase</a>
                   </div>
-                </td>
+                  <div align="left"><font color='#004350' size='2'>ID: 760 2116 5334</font></div>
+                  <div align="left"><font color='#004350' size='2'>CS: 2cEayJ</font></div>
+                 </td>
                 <td>-</td>
                 <td>-</td>
                 <td>
                   <div align="center">
                     <a href="https://artesincodema.blogspot.com/" >DANZAS</a>
-									</div>
+                  </div>
                   <div align="left"><font color='#004350' size='2'>ID: 527 249 1287</font></div>
                   <div align="left"><font color='#004350' size='2'>CS: 6TAtqb</font></div>
-								</td>
+                </td>
               </tr>
               <tr>
                 <td>8:00 – 8:40</td>
                 <td>
-									<div align="center">
-										<a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
-									</div>
+                  <div align="center">
+                    <a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
+                  </div>
                   <!--<div align="center">
                     <a href="">Ir a clase</a>
                   </div> -->
