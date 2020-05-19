@@ -74,9 +74,9 @@
                   <div align="left"><font color='#004350' size='2'>CS: 8XHGRx</font></div>
 		</td>
                 <td>
-		  <div align="center">
+		  <!-- <div align="center">
 		    <a href="https://artesincodema.blogspot.com/" >ARTES</a>
-	        </div>
+	        </div>  -->
                   <div align="center">
                     <a href="https://us04web.zoom.us/j/3530629299?pwd=dU0yR0JLRWRwcGRqTEZZU1REVVcxQT09">Ir a clase</a>
                   </div>
