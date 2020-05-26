@@ -62,7 +62,11 @@
                 </td>
               </tr>
               <tr>
-                <td>8:00 – 8:40</td>
+                <td>8:00 – 8:10</td><td colspan="5"></td>
+              </tr>
+              
+              <tr>
+                <td>8:10 – 8:40</td>
                 <td>
                   <div align="center">
                     <a href="https://deshumanoyoprofesionalincodema.blogspot.com/" >DESARROLLO HUMANO</a>
@@ -98,7 +102,7 @@
                 <td></td>
               </tr>
               <tr>
-                <td>8:45 – 9:00</td><td colspan="5"></td>
+                <td>8:40 – 9:00</td><td colspan="5"></td>
               </tr>
               <tr>
                 <td>9:00 – 9:35</td>
@@ -137,10 +141,10 @@
                 </td>
               </tr>
               <tr>
-                <td>9:35 – 10:00</td><td colspan="5"></td>
+                <td>9:35 – 10:20</td><td colspan="5"></td>
               </tr>
               <tr>
-                <td>10:00 – 10:30</td>
+                <td>10:20 – 10:55</td>
                 <td>
 									<div align="center">LENGUA CASTELLANA</div>
 									<div align="center">
